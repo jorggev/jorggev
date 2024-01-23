@@ -25,7 +25,7 @@
  ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
 
-## Github Stats  
+## GITHUB STATS
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jorggev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
