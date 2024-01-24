@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggev&hide_border=true&layout=compact&bg_color=0,000000,130F40&text_color=A1A1A1" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorggev&hide_border=true&layout=compact&bg_color=0,000000,130F40&text_color=A1A1A1" align="left" style="width: 76%" />
 
 </td></tr></table>  
 
