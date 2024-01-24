@@ -12,6 +12,7 @@
 - ⚡ Fun fact: I drink coffee with cookies every day
 - ❓ Ask me about anything through one of my social networks 👇🏻
 
+<br/> 
 
 <div align="center">
 
@@ -52,17 +53,11 @@
 <br/>  
 
 
-## CONTRIBUTE
+## DRINK WITH ME
 
-<ul style="list-style-type: none;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/jorggevillm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
-
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
+<a href="https://www.buymeacoffee.com/jorggevillm"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 
-
+<br/> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=jorggev&&style=flat-square)
