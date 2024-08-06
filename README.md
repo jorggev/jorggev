@@ -4,13 +4,7 @@
 
   - 🌍 I'm based in Argentina, Chaco
   - ✉️ You can contact me at [jorggevillalba.dev@gmail.com](mailto:dvillalba808@gmail.com)
-  - 🧠 I'm learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
-- 🔭 I am currently working on the development of mobile applications that will satisfy many needs
-- 🌱 I am currently learning different languages and databases
-- ⚡ Fun fact: I drink coffee with cookies every day
-- ❓ Ask me about anything through one of my social networks 👇🏻
 
 <br/> 
 
