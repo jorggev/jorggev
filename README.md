@@ -3,7 +3,7 @@
   ## Hi! What a pleasure to have you here 👋
 
   - 🌍 I'm based in Argentina, Chaco
-  - ✉️ You can contact me at [jorggevillalba.dev@gmail.com](mailto:dvillalba808@gmail.com)
+  - ✉️ You can contact me at [dvillalba808@gmail.com](mailto:dvillalba808@gmail.com)
 
 
 <br/> 
